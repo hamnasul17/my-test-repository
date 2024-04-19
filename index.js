@@ -1,3 +1,5 @@
-let greet;
-console.log("greet");
+let command;
+console.log("hello");
+let userName = "sir ameen alam";
+console.log(userName);
 export {};
